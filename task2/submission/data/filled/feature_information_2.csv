@@ -1,0 +1,4 @@
+information,EtCO2,PTT,BUN,Lactate,Temp,Hgb,HCO3,BaseExcess,RRate,Fibrinogen,Phosphate,WBC,Creatinine,PaCO2,AST,FiO2,Platelets,SaO2,Glucose,ABPm,Magnesium,Potassium,ABPd,Calcium,Alkalinephos,SpO2,Bilirubin_direct,Chloride,Hct,Heartrate,Bilirubin_total,TroponinI,ABPs,pH
+expected,38,29,13,1.425,37,15,24,0,14,200,3.75,7,0.95,40,30,0.21,275,97,84.5,90,2,4.4,80,9.45,95.5,97,0.3,102,44.5,80,1.2,0.22,125,7.4
+critical_low,32,19,5,0.55,35.7,11.9,21.9,-2.1,12,50,2.4,4,0.5,34,9,,149,93,69,85,1.4,3.5,70,8.5,20,93,0.2,96,36,59,1.1,0.04,118,7.35
+critical_high,44,39,21,2.3,38,16.8,26.1,2.1,17,400,5.1,10,1.4,46,51,,450,101,126,95,2.6,5.3,90,10.4,148,100,0.4,108,53,101,1.3,0.4,132,7.45
