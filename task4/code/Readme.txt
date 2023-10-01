@@ -1,7 +1,4 @@
-Dear TA,
-
-Please follow the below instructions so that you can
-get the code to work quickly and easily. 
+Please follow the below instructions so that you can get the code to work quickly and easily. 
 
  - Copy all the food images into the food_images folder
    Images must be unzipped for the code to work correctly. 
@@ -17,7 +14,7 @@ get the code to work quickly and easily.
    will load the stored checkpoint and assign these parameters
    to the model. No model training is going to be carried
    out in this case. 
-   
+
  - Unfortunately, I cannot provide you with the checkpoint as
    the server has a 1 MB upload limit and the checkpiont has
    a size of about 30 MB. 
@@ -30,7 +27,3 @@ get the code to work quickly and easily.
    loaded successfully. 
 
  - The predicted .csv files are stored in ./data/results/
-
-
-Best regards
-
